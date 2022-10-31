@@ -2,7 +2,6 @@
 #include <string.h>
 #include <iostream>
 #include <array>
-#include "Node.cpp"
 
 
 // using recursion to solve the problem
